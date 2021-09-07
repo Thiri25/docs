@@ -4,11 +4,6 @@ intro: 'Go deeper with {% data variables.product.prodname_dotcom %} by integrati
 versions:
   fpt: '*'
   ghes: '*'
-  ghae: '*'
-children:
-  - /overview
-  - /webhooks-and-events
-  - /apps
-  - /github-marketplace
+  gha
 ---
 
